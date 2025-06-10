@@ -8,3 +8,6 @@
 - Final score is displayed when time is up
 
 - Responsive layout – fun and fast-paced!
+
+![image](https://github.com/user-attachments/assets/59e69ec0-8bfe-4c74-8dde-3004f7f7cc64)
+
